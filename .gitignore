@@ -1,0 +1,11 @@
+
+.idea/modules.xml
+*.html
+.idea/encodings.xml
+.idea/project-template.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+Date Converter.iml
+out/production/Date Converter/ir/anamis/Date/DateConverter$1.class
+out/production/Date Converter/ir/anamis/Date/DateConverter.class
+out/production/Date Converter/ir/anamis/Date/Main.class

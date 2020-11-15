@@ -16,7 +16,7 @@ public class DateConverter {
             "آبان", "آذر", "دی", "بهمن", "اسفند"};
     private final String[] grMonthsNamesPer = {"ژانویه", "فوریه", "مارس", "آوریل", "می", "جون", "جولای",
             "آگوست", "سپتامبر", "اکتبر", "نوامبر", "دسامبر"};
-    private final String[] shDaysNames = {"یک شنبه","دو شنبه","سه شنبه","چهار شنبه","پنج شنبه","جمعه","شنبه"};
+    private final String[] shDaysNames = {"","دو شنبه","سه شنبه","چهار شنبه","پنج شنبه","جمعه","شنبه","یک شنبه"};
     private final String[] grMonthsNames = {"January", "February", "March", "April", "May", "June", "July",
             "August", "September", "October", "November", "December"};
     private final String[] grMonthsNamesAbbr = {"Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug",
